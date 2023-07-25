@@ -1,8 +1,9 @@
 ### Opa! Sou o Luis Bruno, ou apenas Bruno :)
 * 🎓 Formação em Engenharia de Software (UnB)
 * 👨🏼‍💻 Desenvolvedor Web FullStack
-* 📚 Estudando Typescript/Next
+* 📚 Estudando Typescript/Next/Prisma
 * 💻 Atualmente faço Freelas, mas aberto para CLT
+* 👨‍💻 Experiências sólidas em Desenvolvimento Web, Infraestrutura e Testes
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lbrunofidelis&show_icons=true&theme=tokyonight)
 
