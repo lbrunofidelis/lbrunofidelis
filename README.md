@@ -1,10 +1,14 @@
 ### Opa! Sou o Luis Bruno, ou apenas Bruno :)
-* 🎓 Formação em Engenharia de Software (UnB)
-* 👨🏼‍💻 Desenvolvedor Web FullStack
-* 📚 Estudando Typescript/Next/Prisma
+* 🎓 Bacharelado em Engenharia de Software - Universidade de Brasília (UnB)
+* 👨🏼‍💻 Desenvolvedor FullStack
+* 📚 Estudando Go e Banco de Dados
 * 👨‍💻 Experiências sólidas em Desenvolvimento Web, Infraestrutura e Testes
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lbrunofidelis&show_icons=true&theme=tokyonight)
+
+<a href="https://codeium.com/profile/lbrunofidelis">
+<img src="https://img.shields.io/badge/Codeium-09B6A2.svg?style=for-the-badge&logo=Codeium&logoColor=white" alt="Perfil Codeium" />
+</a>
 
 ## Tecnologias que domino
 <div style="display: inline_block"><br/>
