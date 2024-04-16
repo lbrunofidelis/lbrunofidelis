@@ -1,18 +1,14 @@
 ### Opa! Sou o Bruno Fidelis =]
 * 🎓 Bacharelado em Engenharia de Software - Universidade de Brasília (UnB)
 * 👨🏼‍💻 Desenvolvedor FullStack
-* 📚 Estudando Go, Cobol e Banco de Dados 
+* 📚 Estudando Python e Cobol
 * 👨‍💻 Experiências sólidas em Desenvolvimento Web, Infraestrutura e Testes
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lbrunofidelis&show_icons=true&theme=tokyonight)
 
-<a href="https://codeium.com/profile/lbrunofidelis">
-<img src="https://img.shields.io/badge/Codeium-09B6A2.svg?style=for-the-badge&logo=Codeium&logoColor=white" alt="Perfil Codeium" />
-</a>
-
 ## Tecnologias que domino por área de conhecimento
 
-<details>
+<details open>
   <summary>Backend</summary>
   <div style="display: inline_block"><br/>
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -26,7 +22,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Banco de dados</summary>
   <div style="display: inline_block"><br/>
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -34,25 +30,27 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Infraestrutura</summary>
   <div style="display: inline_block"><br/>
     <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img align="center" alt="redhat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
     <img align="center" alt="pfsense" src="https://img.shields.io/badge/-pfSense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Frontend</summary>
   <div style="display: inline_block"><br/>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img align="center" alt="next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img align="center" alt="figma" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Testes</summary>
   <div style="display: inline_block"><br/>
     <img align="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -75,3 +73,4 @@
   </a>
 </div>
 
+<h3>O que eu ainda não sei, me dê apenas alguns dias p/ dar uma lida e uma praticada</h3>
