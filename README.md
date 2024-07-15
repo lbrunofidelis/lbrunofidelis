@@ -2,7 +2,7 @@
 * 🎓 Bacharelado em Engenharia de Software - Universidade de Brasília (UnB)
 * 👨🏼‍💻 Desenvolvedor FullStack
 * 📚 Estudando Python e Cobol
-* 👨‍💻 Experiências sólidas em Desenvolvimento Web, Infraestrutura e Testes
+* 👨‍💻 Experiência em Desenvolvimento, Infraestrutura e Testes
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lbrunofidelis&show_icons=true&theme=tokyonight)
 
@@ -19,6 +19,7 @@
     <img align="center" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
     <img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img align="center" alt="next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </div>
 </details>
 
