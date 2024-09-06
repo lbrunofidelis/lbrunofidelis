@@ -1,7 +1,7 @@
 ### Opa! Sou o Bruno Fidelis =]
 * 🎓 Bacharelado em Engenharia de Software - Universidade de Brasília (UnB)
 * 👨🏼‍💻 Desenvolvedor FullStack
-* 📚 Estudando Python e Cobol
+* 📚 Aprofundando em arquitetura e estudando Angular 
 * 👨‍💻 Experiência em Desenvolvimento, Infraestrutura e Testes
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lbrunofidelis&show_icons=true&theme=tokyonight)
@@ -24,6 +24,17 @@
 </details>
 
 <details open>
+  <summary>Frontend</summary>
+  <div style="display: inline_block"><br/>
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="figma" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
+    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img align="center" alt="next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img align="center" alt="figma" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+  </div>
+</details>
+
+<details open>
   <summary>Banco de dados</summary>
   <div style="display: inline_block"><br/>
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -38,16 +49,6 @@
     <img align="center" alt="redhat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
     <img align="center" alt="pfsense" src="https://img.shields.io/badge/-pfSense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white" />
     <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  </div>
-</details>
-
-<details open>
-  <summary>Frontend</summary>
-  <div style="display: inline_block"><br/>
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img align="center" alt="next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img align="center" alt="figma" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   </div>
 </details>
 
