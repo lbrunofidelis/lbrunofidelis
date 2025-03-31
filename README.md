@@ -1,7 +1,7 @@
 ### Opa! Sou o Bruno Fidelis =]
 * 🎓 Bacharelado em Engenharia de Software - Universidade de Brasília (UnB)
 * 👨🏼‍💻 Desenvolvedor FullStack
-* 📚 Aprofundando em arquitetura e estudando Angular 
+* 📚 Aprofundando em Python
 * 👨‍💻 Experiência em Desenvolvimento, Infraestrutura e Testes
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lbrunofidelis&show_icons=true&theme=tokyonight)
@@ -27,7 +27,7 @@
   <summary>Frontend</summary>
   <div style="display: inline_block"><br/>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="figma" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
+    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
     <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img align="center" alt="next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img align="center" alt="figma" src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
@@ -75,4 +75,3 @@
   </a>
 </div>
 
-<h3>O que eu ainda não sei, me dê apenas alguns dias p/ dar uma lida e uma praticada</h3>
